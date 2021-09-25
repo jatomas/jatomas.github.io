@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: "Test jatomas.com"
+email: "ja.tomas@outlook.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://jatomas.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: "juanan169"
+github_username: "jatomas"
 
 # Build settings
 markdown: kramdown
